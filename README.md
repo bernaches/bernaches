@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @bernaches
 - 👀 I’m interested in being enough
 - 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on ... im still finding out  
-- 📫 How to reach me ... never
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I miss my dogs
 
 <!---
