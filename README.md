@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miguel and I'm a Developer from the Philippines. <br><br>🧑‍💻trying to learn the MERN stack rn</h2>
+<h2 align="left">Hi 👋! My name is Bernaches and I'm a Developer from the Philippines. <br><br>🧑‍💻trying to learn the MERN stack rn</h2>
 
 ###
 
