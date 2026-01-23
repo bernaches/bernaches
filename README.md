@@ -44,7 +44,7 @@
 ###
 
 <br clear="both">
+<h3 align="left">https://miguelcoretico.netlify.app/</h3>
 
-<img src="https://raw.githubusercontent.com/bernaches/bernaches/output/snake.svg" alt="Snake animation" />
 
 ###
