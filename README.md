@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Web Developer
+Fullstack Developer
 
 # 💻 Tech Stack:
 
