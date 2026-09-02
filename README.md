@@ -8,16 +8,26 @@ Web Developer
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=bernaches&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=bernaches&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bernaches&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 ### ✍️ Random Dev Quote
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
+<div align="center">
+
 ## [![Cat GIF](https://media.giphy.com/media/aCzTklXxTjF3NlzXlN/giphy.gif)](https://giphy.com/gifs/catty-hazilkash-dobronxsjon-aCzTklXxTjF3NlzXlN)
 
-[![](https://komarev.com/ghpvc/?username=bernaches&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=bernaches&icon=0&color=0)](https://visitcount.itsvg.in)
